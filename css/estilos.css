@@ -1,0 +1,18 @@
+body {
+    background-image: url('../img/fondo.png');
+}
+.jumbotron {
+    background-color: #F8BA07;
+}
+.panel-heading {
+    background-color: #F8BA07 !important;
+}
+.navbar {
+    background-color: #F8BA07 !important;
+}
+#navbar li a:link, #navbar li a:visited {
+    color: #020202
+}
+#navbar li a:hover, #navbar li a:active {
+    color: white
+}
